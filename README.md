@@ -14,3 +14,18 @@ https://www.markdownguide.org/basic-syntax
 
 
 I just love **bold text**.
+
+This is some more text... Just to add stuff.  
+
+
+
+Use Git to push changes to server
+```
+git status
+```
+
+```
+git add .
+git commit -m "text message here"
+git push
+```
